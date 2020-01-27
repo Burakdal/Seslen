@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "459960004517",
+    "firebase_url": "https://voicerecorder-b2795.firebaseio.com",
+    "project_id": "voicerecorder-b2795",
+    "storage_bucket": "voicerecorder-b2795.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459960004517:android:b7323ebc4aadcc28",
+        "android_client_info": {
+          "package_name": "com.burakdal.voiceproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459960004517-vrnkbhhhisgl75kb6ghqcbvb1nmuihv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr73u_0PBe2JA-iMwKl-Dt_YLMsjBxqeE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

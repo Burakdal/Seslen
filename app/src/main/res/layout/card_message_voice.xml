@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:id="@+id/layout_of_voice_card"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/play_record_main_message_card"
+            android:layout_width="44dp"
+            android:layout_height="44dp"
+            android:background="@drawable/shape_of_send_voice"
+            android:src="@drawable/play_ic" />
+
+        <SeekBar
+            android:id="@+id/seekbar_main_message_card"
+            style="@style/Widget.AppCompat.SeekBar.Discrete"
+            android:layout_width="98dp"
+            android:layout_height="44dp" />
+    </LinearLayout>
+
+</LinearLayout>

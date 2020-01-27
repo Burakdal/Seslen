@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">VoiceProject</string>
+    <string name="signin_email">E-mail</string>
+    <string name="signin_password">Password</string>
+    <string name="password_confirm">Confirm Password</string>
+    <string name="username">Username</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">Password too short or does not match</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="dialog_select_photo">SelectPhoto</string>
+    <string name="dialog_select_photo1">SelectPhoto1</string>
+
+    <string name="arg_post_id">arg_post_id</string>
+    <string name="field_password">password</string>
+    <string name="field_user_id">user_id</string>
+    <string name="field_post_id">post_id</string>
+    <string name="node_elasticsearch">elasticsearch</string>
+    <string name="fragment_post">Post</string>
+    <string name="fragment_view_post">Post</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_myprofile">Profile</string>
+    <string name="title_search">Search</string>
+    <string name="title_post">Post</string>
+    <string name="title_home">Home</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_notification">NotificationActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+
+    <string name="node_users">users</string>
+    <string name="node_posts">posts</string>
+    <string name="post_describtion_placeholder">Description</string>
+    <string name="tag_myprofile_fragment">MyProfile</string>
+    <string name="tag_editprofile_fragment">EditProfileFragment</string>
+    <string name="tag_home_fragment">HOME</string>
+    <string name="tag_notification_fragment">Notifications</string>
+
+    <string name="tag_search_fragment">SearchFragment</string>
+    <string name="tag_viewpost_fragment">ViewPostFragment</string>
+    <string name="tag_viewprofile_fragment">ViewProfileFragment</string>
+    <string name="tag_post_fragment">PostFragment</string>
+    <string name="tag_selectlocation_fragment">SelectLocationFragment</string>
+    <string name="tag_following_list_fragment">FollowingList</string>
+    <string name="tag_follower_list_fragment">FollowerList</string>
+    <string name="tag_home_total">HomeTotalFragment</string>
+    <string name="tag_main_message_tag">MainMessageFragment</string>
+    <string name="tag_message_threads">MessagingThreads</string>
+    <string name="tag_comment_threads">CommentThread</string>
+
+
+
+
+    <string name="prompt_msg">Type a message</string>
+    <string name="action_send">Send</string>
+
+
+
+    <string name="default_notification_channel_id">1234</string>
+
+    <string name="search_toolbar">Search</string>
+    <string name="title_activity_maps">VoiceMap</string>
+    <string name="cancel_menu_title">Cancel</string>
+    <string name="tag_searchtotal_fragment">SearchTotalFragment</string>
+    <string name="title_search_fragment">Map</string>
+    <string name="title_search_people">People</string>
+    <string name="title_search_places">Places</string>
+    <string name="title_home_followings">Followings</string>
+    <string name="title_home_locations">Nearby</string>
+
+    <string name="sample_message">Hello!</string>
+
+
+
+
+    <string name="searched_word">searchObject</string>
+    <string name="search_title">search</string>
+    <string name="messages">messages</string>
+
+
+</resources>

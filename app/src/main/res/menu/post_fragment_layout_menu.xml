@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/close_icon"
+        android:title="@string/cancel_menu_title"
+        android:id="@+id/close_icon_post_fragment_toolbar"
+        app:showAsAction="always"
+        />
+
+</menu>
